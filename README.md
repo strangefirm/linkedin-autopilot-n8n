@@ -1,3 +1,5 @@
+LinkedIn Autopilot: an AI content pipeline in n8n with a human approval step
+
 I stopped writing my LinkedIn posts. I just approve them now.
 
 Here is the n8n workflow behind it, node by node, with a business use case you can copy.
